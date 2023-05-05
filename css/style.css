@@ -1,0 +1,41 @@
+body {
+    font-family: "Gerogia", "Helvetica", sans-serif
+}
+
+#homepage-headline {
+    font-size: 40px;
+    color: #313131;
+}
+
+ul {
+    list-style-type:square;
+}
+
+.link-to-home,
+#about-link {
+    font-size: 14px;
+}
+
+.source-credit {
+    color: rgb(111, 0, 0);
+}
+
+.recipe-img {
+    width: 500px;
+    height: auto;
+}
+
+ol li {
+    margin: 7px;
+}
+
+.recipe-tagline {
+    font-style: italic;
+    color: #313131;
+    text-decoration: underline;
+}
+
+.recipe-sub-header {
+    font-weight: 600;
+    text-decoration: underline;
+}
